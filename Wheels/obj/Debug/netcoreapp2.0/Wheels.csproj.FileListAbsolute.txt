@@ -20,3 +20,14 @@ C:\Users\asus_x550c\Desktop\ASP.NET_CORE_Angular_2\Wheels\Wheels\obj\Debug\netco
 C:\Users\asus_x550c\Desktop\ASP.NET_CORE_Angular_2\Wheels\Wheels\obj\Debug\netcoreapp2.0\Wheels.AssemblyInfo.cs
 C:\Users\asus_x550c\Desktop\ASP.NET_CORE_Angular_2\Wheels\Wheels\obj\Debug\netcoreapp2.0\Wheels.dll
 C:\Users\asus_x550c\Desktop\ASP.NET_CORE_Angular_2\Wheels\Wheels\obj\Debug\netcoreapp2.0\Wheels.pdb
+C:\Users\asus_x550c\Desktop\ASP.NET_CORE_Angular_3(git_clone)\Wheels-ASP.Net_Core-\Wheels\bin\Debug\netcoreapp2.0\Wheels.deps.json
+C:\Users\asus_x550c\Desktop\ASP.NET_CORE_Angular_3(git_clone)\Wheels-ASP.Net_Core-\Wheels\bin\Debug\netcoreapp2.0\Wheels.runtimeconfig.json
+C:\Users\asus_x550c\Desktop\ASP.NET_CORE_Angular_3(git_clone)\Wheels-ASP.Net_Core-\Wheels\bin\Debug\netcoreapp2.0\Wheels.runtimeconfig.dev.json
+C:\Users\asus_x550c\Desktop\ASP.NET_CORE_Angular_3(git_clone)\Wheels-ASP.Net_Core-\Wheels\bin\Debug\netcoreapp2.0\Wheels.dll
+C:\Users\asus_x550c\Desktop\ASP.NET_CORE_Angular_3(git_clone)\Wheels-ASP.Net_Core-\Wheels\bin\Debug\netcoreapp2.0\Wheels.pdb
+C:\Users\asus_x550c\Desktop\ASP.NET_CORE_Angular_3(git_clone)\Wheels-ASP.Net_Core-\Wheels\obj\Debug\netcoreapp2.0\Wheels.csprojAssemblyReference.cache
+C:\Users\asus_x550c\Desktop\ASP.NET_CORE_Angular_3(git_clone)\Wheels-ASP.Net_Core-\Wheels\obj\Debug\netcoreapp2.0\Wheels.csproj.CoreCompileInputs.cache
+C:\Users\asus_x550c\Desktop\ASP.NET_CORE_Angular_3(git_clone)\Wheels-ASP.Net_Core-\Wheels\obj\Debug\netcoreapp2.0\Wheels.AssemblyInfoInputs.cache
+C:\Users\asus_x550c\Desktop\ASP.NET_CORE_Angular_3(git_clone)\Wheels-ASP.Net_Core-\Wheels\obj\Debug\netcoreapp2.0\Wheels.AssemblyInfo.cs
+C:\Users\asus_x550c\Desktop\ASP.NET_CORE_Angular_3(git_clone)\Wheels-ASP.Net_Core-\Wheels\obj\Debug\netcoreapp2.0\Wheels.dll
+C:\Users\asus_x550c\Desktop\ASP.NET_CORE_Angular_3(git_clone)\Wheels-ASP.Net_Core-\Wheels\obj\Debug\netcoreapp2.0\Wheels.pdb

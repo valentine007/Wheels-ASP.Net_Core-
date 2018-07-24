@@ -12835,11 +12835,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\asus_x550c\\Desktop\\ASP.NET_CORE_Angular_2\\Wheels\\Wheels\\Wheels.csproj",
+      "projectUniqueName": "C:\\Users\\asus_x550c\\Desktop\\ASP.NET_CORE_Angular_3(git_clone)\\Wheels-ASP.Net_Core-\\Wheels\\Wheels.csproj",
       "projectName": "Wheels",
-      "projectPath": "C:\\Users\\asus_x550c\\Desktop\\ASP.NET_CORE_Angular_2\\Wheels\\Wheels\\Wheels.csproj",
+      "projectPath": "C:\\Users\\asus_x550c\\Desktop\\ASP.NET_CORE_Angular_3(git_clone)\\Wheels-ASP.Net_Core-\\Wheels\\Wheels.csproj",
       "packagesPath": "C:\\Users\\asus_x550c\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\asus_x550c\\Desktop\\ASP.NET_CORE_Angular_2\\Wheels\\Wheels\\obj\\",
+      "outputPath": "C:\\Users\\asus_x550c\\Desktop\\ASP.NET_CORE_Angular_3(git_clone)\\Wheels-ASP.Net_Core-\\Wheels\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
