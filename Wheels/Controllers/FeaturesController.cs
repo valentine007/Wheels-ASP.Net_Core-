@@ -6,26 +6,25 @@ using Microsoft.EntityFrameworkCore;
 using Wheels.Controllers.Resources;
 using Wheels.Models;
 using Wheels.Persistence;
-using Whels.Controllers.Resources;
 
 namespace vega.Controllers
 {
-	public class MakesController : Controller
+	public class FeaturesController : Controller
 	{
 		private readonly WheelsDBContext context;
 		private readonly IMapper mapper;
-		public MakesController(WheelsDBContext	 context, IMapper mapper)
+		public FeaturesController(WheelsDBContext context, IMapper mapper)
 		{
 			this.mapper = mapper;
 			this.context = context;
 		}
 
-		[HttpGet("/api/makes")]
-		public async Task<IEnumerable<MakeResource>> GetMakes()
+		[HttpGet("/api/features")]
+		public async Task<IEnumerable<FeatureResource>> GetFeatures()
 		{
-			var makes = await context.Makes.Include(m => m.Models).ToListAsync();
+			var features = await context.Features.ToListAsync();
 
-			return mapper.Map<List<Make>, List<MakeResource>>(makes);
+			return mapper.Map<List<Feature>, List<FeatureResource>>(features);
 		}
 	}
 }

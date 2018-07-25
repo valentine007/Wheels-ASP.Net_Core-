@@ -1,12 +1,9 @@
 ﻿using AutoMapper;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using Wheels.Controllers.Resources;
 using Wheels.Models;
+using Whels.Controllers.Resources;
 
-namespace Wheels.Mapping
+namespace vega.Mapping
 {
 	public class MappingProfile : Profile
 	{
@@ -14,6 +11,7 @@ namespace Wheels.Mapping
 		{
 			CreateMap<Make, MakeResource>();
 			CreateMap<Model, ModelResource>();
+			CreateMap<Feature, FeatureResource>();
 		}
 	}
 }
