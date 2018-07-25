@@ -2,15 +2,17 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Wheels.Persistence;
 
 namespace Wheels.Migrations
 {
     [DbContext(typeof(WheelsDBContext))]
-    partial class WheelsDBContextModelSnapshot : ModelSnapshot
+    [Migration("20180725210036_Feature")]
+    partial class Feature
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
